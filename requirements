@@ -1,0 +1,7 @@
+These modules are required for this code
+1.tkinter
+2.messagebox (from tkinter)
+3.font (from tkinter)
+4.math
+5.datetime
+6.json
